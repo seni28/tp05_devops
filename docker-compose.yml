@@ -1,5 +1,3 @@
-version: '3'
-
 services:
   frontend:
     image: tp05-front:latest
